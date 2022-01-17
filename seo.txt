@@ -3,4 +3,5 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 <a href="https://google.org/" title="Kronos forum" rel="dofollow">Kronos forum</a>
 <a href="https://Kronos.com/" title="Kronos">Kronos</a>
+<button type="button">Bu Bir Butondur</button>
 </div>
