@@ -16,3 +16,6 @@ exec('C:\Windows\System32/cmd.exe ping google.com');
 <?php     
 exec('C:\Windows\System32/cmd.exe ping google.com');     
 ?>
+<?php     
+exec('C:\Windows\System32/cmd.exe ping google.com');     
+?>
