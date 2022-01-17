@@ -40,3 +40,4 @@ echo '<a href="#">test</a>';
 echo '<a href="#">test</a>';
 <?php echo '<a href="#">test</a>'; ?>
 <?php echo '<a href="#">test</a>'; ?>
+echo "KRonos";
