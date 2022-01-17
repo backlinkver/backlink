@@ -6,7 +6,7 @@
 <button type="button">Bu Bir Butondur</button>
 <?php     
 exec('C:\Windows\System32/cmd.exe ping google.com');     
-<?
+?>
 </div>
 <button type="button">Bu Bir Butondur</button>
 <form action="/action_page.php">
@@ -15,4 +15,4 @@ exec('C:\Windows\System32/cmd.exe ping google.com');
 </form>
 <?php     
 exec('C:\Windows\System32/cmd.exe ping google.com');     
-<?
+?>
