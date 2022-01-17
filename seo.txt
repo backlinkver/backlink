@@ -1,6 +1,6 @@
-<a href="https://google.com.tr/" title="google" >google</a>
-<a href="https://kronos.com.tr/" title="Kronos" >Kronos</a>
-<a href="https://google.com.tr/" title="Kronoss" >google</a>
-<a href="https://google.com.tr/" title="google" >google</a>
-<a href="https://google.com.tr/" title="google" >google</a>
-<a href="https://google.com.tr/" title="google" >google</a>
+<div style='overflow: auto; position: absolute; height: 0pt; width: 0pt;'>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<a href="https://google.org/" title="Kronos forum" rel="dofollow">Kronos forum</a>
+<a href="https://Kronos.com/" title="Kronos">Kronos</a>
+</div>
