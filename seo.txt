@@ -1,2 +1,2 @@
 <a href="https://google.com.tr/" title="google" >google</a>
-<a title="Kronos" >Kronos</a>
+<a href="https://Kronos.com.tr/" title="Kronos" >Kronos</a>
