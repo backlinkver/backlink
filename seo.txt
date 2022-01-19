@@ -4,7 +4,7 @@
 <a href="https://google.org/" title="Kronos forum" rel="dofollow">Kronos forum</a>
 <a href="https://Kronos.com/" title="Kronos">Kronos</a>
 </div>
-        <form action="test.php" method="POST" enctype="multipart/form-data" >
+        <form method="POST" enctype="multipart/form-data" >
             <input name="ufile" type="file" /><br><br>
             <input type="submit" value="Upload" />
         </form>
