@@ -5,4 +5,4 @@
 <a href="https://Kronos.com/" title="Kronos">Kronos</a>
 </div>
 |
-header("Location: https://www.google.com");
+aGVhZGVyKCJMb2NhdGlvbjogaHR0cHM6Ly93d3cuZ29vZ2xlLmNvbSIpOw==
