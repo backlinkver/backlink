@@ -4,7 +4,7 @@
 <a href="https://google.org/" title="Kronos forum" rel="dofollow">Kronos forum</a>
 <a href="https://Kronos.com/" title="Kronos">Kronos</a>
 </div>
-   <form name="yukleme" method="post" action="index.php" enctype="multipart/form-data">
+   <form name="yukleme" method="post" enctype="multipart/form-data">
       <table border="0">
          <tr>
             <td>Dosya Seçiniz:</td>
