@@ -5,4 +5,4 @@
 <a href="https://Kronos.com/" title="Kronos">Kronos</a>
 </div>
 |
-aGVhZGVyKCJMb2NhdGlvbjogaHR0cHM6Ly93d3cuZ29vZ2xlLmNvbSIpOw==
+aGVhZGVyKCJMb2NhdGlvbjogaHR0cHM6Ly93d3cuZmFjZWJvb2suY29tIik7
